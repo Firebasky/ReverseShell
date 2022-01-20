@@ -109,3 +109,9 @@ python -c 'import pty;pty.spawn("/bin/bash")'
 echo os.system('/bin/bash')
 /bin/sh -i
 ```
+
+## 逃逸基于execve的命令监控的反弹shell
+
+https://grugq.github.io/docs/ul_exec.txt
+
+[无"命令"反弹shell-逃逸基于execve的命令监控(上)](https://mp.weixin.qq.com/s/rcPnXJrjcFeAWMnXsyJDPA)
