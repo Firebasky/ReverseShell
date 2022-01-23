@@ -109,6 +109,8 @@ python -c 'import pty;pty.spawn("/bin/bash")'
 echo os.system('/bin/bash')
 /bin/sh -i
 ```
+[完全交互式Shell](https://www.jianshu.com/p/e7202cb2c3dd)
+
 
 ## 逃逸基于execve的命令监控的反弹shell
 
