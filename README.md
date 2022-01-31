@@ -117,3 +117,5 @@ echo os.system('/bin/bash')
 https://grugq.github.io/docs/ul_exec.txt
 
 [无"命令"反弹shell-逃逸基于execve的命令监控(上)](https://mp.weixin.qq.com/s/rcPnXJrjcFeAWMnXsyJDPA)
+
+[如何改变进程名称](https://mp.weixin.qq.com/s?__biz=MzkyMDIxMjE5MA==&mid=2247484350&idx=1&sn=14d5423fe226e9716eee2f4eaf58e62a&chksm=c197040ff6e08d19c5c2877775777054a7917db0e743c6abe1187782639e3cc3f20f02738b7d&mpshare=1&scene=23&srcid=0131L4KTJKxOsz0ATdwjU24c&sharer_sharetime=1643560116868&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
