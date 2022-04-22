@@ -119,3 +119,6 @@ https://grugq.github.io/docs/ul_exec.txt
 [无"命令"反弹shell-逃逸基于execve的命令监控(上)](https://mp.weixin.qq.com/s/rcPnXJrjcFeAWMnXsyJDPA)
 
 [如何改变进程名称](https://mp.weixin.qq.com/s?__biz=MzkyMDIxMjE5MA==&mid=2247484350&idx=1&sn=14d5423fe226e9716eee2f4eaf58e62a&chksm=c197040ff6e08d19c5c2877775777054a7917db0e743c6abe1187782639e3cc3f20f02738b7d&mpshare=1&scene=23&srcid=0131L4KTJKxOsz0ATdwjU24c&sharer_sharetime=1643560116868&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd)
+
+## 原理
++ [Reverse Shell 杂谈](https://mp.weixin.qq.com/s?__biz=MzA3MzU1MDQwOA==&mid=2247483909&idx=1&sn=6c7c89154552842ce27a871b7557ee0e&chksm=9f0c1d22a87b94340d71e77fe6c7c935eda1f83142faf7a43b32246b1826f8c3281fd75235e6&scene=178&cur_album_id=1465824885800009730#rd)
