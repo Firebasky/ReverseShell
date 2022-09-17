@@ -123,5 +123,7 @@ https://grugq.github.io/docs/ul_exec.txt
 
 [反弹shell检测技术研究](https://l0n9w4y.cc/posts/19880/)
 
+[恶意命令绕过与检测](https://l0n9w4y.cc/posts/18345/)
+
 ## 原理
 + [Reverse Shell 杂谈](https://mp.weixin.qq.com/s?__biz=MzA3MzU1MDQwOA==&mid=2247483909&idx=1&sn=6c7c89154552842ce27a871b7557ee0e&chksm=9f0c1d22a87b94340d71e77fe6c7c935eda1f83142faf7a43b32246b1826f8c3281fd75235e6&scene=178&cur_album_id=1465824885800009730#rd)
